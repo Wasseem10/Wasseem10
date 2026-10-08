@@ -1,10 +1,13 @@
-# Hi, I'm Wasseem Dabbas
+# Wasseem Dabbas
 
-I'm an Information Technology student at the University of Central Florida, graduating in **December 2027**. I build web applications and explore practical uses of AI, from document tools to reminder systems and computer vision.
+Information Technology @ UCF · December 2027
 
-I'm interested in **software engineering and full-stack development internships**.
+Building [PDFEnrich](https://pdfenrich.com), a browser-based PDF editor.
+
+Open to **2027 software engineering internships**.
 
 ## Selected projects
+
 
 | Project | What it does | Explore |
 | --- | --- | --- |
@@ -13,8 +16,12 @@ I'm interested in **software engineering and full-stack development internships*
 | **EverMind** | An AI reminder-calling prototype with a caregiver dashboard, scheduling, call history, and voice integrations. | [Code](https://github.com/Wasseem10/EverMind) |
 | **StayPinged** | A Telegram assistant for saved context and scheduled reminders, with a Next.js web interface. | [Code](https://github.com/Wasseem10/Moggedai) |
 
+
 ## Technologies in these projects
+
 
 JavaScript · TypeScript · React · Next.js · Node.js · Express · PostgreSQL · Python
 
+
 Based in **Orlando, Florida**.
+
